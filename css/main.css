@@ -179,4 +179,11 @@ header nav ul li a {
     /*21px*/
   }
 }
+@media screen and (max-width: 500px){
+  .wrapper section.hero{
+    background: url(../img/hero.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+}
 /* # sourceMappingURL=main.css.map */

@@ -157,3 +157,10 @@ header{
     font-size: 1.3125rem; /*21px*/
   }
 }
+@media only screen and (max-width: 400px){
+  section.hero{
+    background: url(../img/hero.jpg);
+    background-size: 200px;
+    background-position: left;
+  }
+}

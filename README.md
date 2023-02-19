@@ -2,7 +2,7 @@
 A musician webpage built with **HTML**, **CSS**, **SCSS**, **JS**, and **GSAP**
 It is a static and one page website with three basic sections.
 
-## Hero Section
+## HERO SECTION
 Which contains an intro for the webpage.
 
 ## FEATURED SECTION

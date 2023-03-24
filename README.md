@@ -2,6 +2,9 @@
 A musician webpage built with **HTML**, **CSS**, **SCSS**, **JS**, and **GSAP**
 It is a static and one page website with three basic sections.
 
+## LINK
+  **[Go musician](https://judechuks.github.io/Go-musician// "go musican")**
+
 ## SECTIONS
 The Webpage is divided into three main sections, namely;
 **Hero**, **Featured** and **subscribe** 
